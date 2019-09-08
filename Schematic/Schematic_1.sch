@@ -5389,7 +5389,6 @@ naming: grid - package width</description>
 </busses>
 <nets>
 <net name="COL1" class="0">
-<<<<<<< Updated upstream
 <segment>
 <label x="-132.08" y="142.24" size="1.778" layer="95"/>
 <pinref part="D2" gate="G$1" pin="C"/>
@@ -5489,35 +5488,6 @@ naming: grid - package width</description>
 <label x="-73.66" y="139.7" size="1.778" layer="95"/>
 <pinref part="U1" gate="A" pin="PB4"/>
 <wire x1="-193.04" y1="165.1" x2="-73.66" y2="165.1" width="0.1524" layer="91"/>
-=======
-<segment>
-<label x="-132.08" y="142.24" size="1.778" layer="95"/>
-<pinref part="D2" gate="G$1" pin="C"/>
-<wire x1="-127" y1="111.76" x2="-132.08" y2="111.76" width="0.1524" layer="91"/>
-<junction x="-132.08" y="111.76"/>
-<wire x1="-132.08" y1="111.76" x2="-132.08" y2="91.44" width="0.1524" layer="91"/>
-<pinref part="D1" gate="G$1" pin="C"/>
-<wire x1="-132.08" y1="91.44" x2="-132.08" y2="71.12" width="0.1524" layer="91"/>
-<wire x1="-132.08" y1="71.12" x2="-132.08" y2="50.8" width="0.1524" layer="91"/>
-<wire x1="-127" y1="91.44" x2="-132.08" y2="91.44" width="0.1524" layer="91"/>
-<junction x="-132.08" y="91.44"/>
-<pinref part="D3" gate="G$1" pin="C"/>
-<wire x1="-127" y1="71.12" x2="-132.08" y2="71.12" width="0.1524" layer="91"/>
-<junction x="-132.08" y="71.12"/>
-<pinref part="D4" gate="G$1" pin="C"/>
-<wire x1="-127" y1="50.8" x2="-132.08" y2="50.8" width="0.1524" layer="91"/>
-<pinref part="D5" gate="G$1" pin="C"/>
-<wire x1="-127" y1="30.48" x2="-132.08" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="-132.08" y1="50.8" x2="-132.08" y2="30.48" width="0.1524" layer="91"/>
-<junction x="-132.08" y="50.8"/>
-<pinref part="D6" gate="G$1" pin="C"/>
-<wire x1="-127" y1="10.16" x2="-132.08" y2="10.16" width="0.1524" layer="91"/>
-<wire x1="-132.08" y1="30.48" x2="-132.08" y2="10.16" width="0.1524" layer="91"/>
-<junction x="-132.08" y="30.48"/>
-<wire x1="-132.08" y1="162.56" x2="-132.08" y2="111.76" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="PB5"/>
-<wire x1="-193.04" y1="162.56" x2="-132.08" y2="162.56" width="0.1524" layer="91"/>
->>>>>>> Stashed changes
 </segment>
 </net>
 <net name="N$5" class="0">
